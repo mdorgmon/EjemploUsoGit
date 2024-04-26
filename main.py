@@ -31,3 +31,5 @@ print ("commit 5 b1")
 print("commit 4 ma")
 
 print("Commit 5 ma")
+
+print("Commit 6")
